@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">School Battle</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Jan Kowalski</string>
+    <string name="nav_header_subtitle">Klan: Słowak</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="period">
+        <item>Tydzień</item>
+        <item>Miesiąc</item>
+        <item>Rok</item>
+    </string-array>
+
+</resources>
